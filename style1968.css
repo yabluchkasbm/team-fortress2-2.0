@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&family=El+Messiri:wght@400..700&family=Hachi+Maru+Pop&family=M+PLUS+Rounded+1c&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.logo{
+    width: 150px;
+}
+img{
+    width: 100%;
+}
+
+.navbar{
+    font-family: 'TF2 Build', sans-serif;
+    
+    
+}
+.big{
+    background-color: rgba(35, 35, 32, 0.879);
+    
+}
+.container{
+    padding: 0px;
+    
+}
+.footer{
+    background-color: rgb(119, 112, 87);
+    color: #e4bd74;
+    font-family: 'TF2 Build', sans-serif;
+    padding: 30px;
+
+}
+.logologo{
+    width: 50px;
+  
+}
+.bg-1{
+    background-color: #ecdedb;
+    
+   
+    border-radius: 15px 0 0 0 ;
+}
+.orange-1{
+    border-radius: 0 0  0 0 ;
+    
+}
+.bg-2{
+    background-color: #d89925;
+    padding-bottom: 30px;
+    border-radius: 0px 0px 0 0;
+    font-family: 'TF2 Build', sans-serif;
+    
+    padding-left: 10px;
+    padding: 40px;
+    
+    
+}
+
+.bg-3{
+  
+   
+    font-family: 'TF2', sans-serif;}
+
+    
+    
+
+.bg-4{
+    background-color: #ecdedb;
+    
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+    
+    
+    
+
+.bg-5{
+    background-color: #ecdedb;
+    margin-top: 5px;
+    border-radius: 10px;
+    padding-top: 0;
+    padding-bottom: 30px;
+    
+}
+
+.bg-6{
+background-color: #ecdedb;
+padding-top: 20px;
+padding-bottom: 20px;
+
+}
+.links{
+    list-style: none;
+} 
+
+.bg-9{
+    background-color: #ecdedb;
+
+    
+}
+.biiiig{
+    background-color: #5a554d;
+    padding-top: 60px;
+    border-radius: 20px;
+    margin-top:10px ;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom:40px;
+    background: linear-gradient(#5a554d,#7c7a7750,#3d3b3721);
+    border-radius: 10px 0 0 10px;
+    
+}
+.col-azazaa{
+    background-color: #ecdedb;
+    border-radius: 0px 0px 0px 0px;
+
+}
+.bg-8{
+background-color: #ecdedb;
+
+
+
+}
+.bg-10{
+    border-radius: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    
+
+}
+
+.bg-11{
+    background-color: #d89925;
+    padding: 30px;
+    border-radius: 10px 10px 0 0;
+    
+
+}
+img{
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(178, 124, 37);
+    
+
+}
+
+
+body{
+    background: linear-gradient( black,rgba(0, 0, 0, 0.683),rgba(0, 0, 0, 0.557) );
+    
+}
+.nav-item{
+       color: beige;
+}
+.nav-link{
+
+}
+.big-photo{
+    border-radius: 10px 0px 0 10px;
+    padding-bottom: 10px;
+    
+    margin-left: px;
+   
+}
+.bg-12{
+    background-color: #ecdedb;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'TF2 Build', sans-serif;
+    background-color: #d89925;
+    padding-left: 30px;
+    
+}
+
+
+h2{
+    font-family: 'TF2 Build', sans-serif;
+}
+
+.nav-link:hover{
+
+    color: #d89925;
+}
+.video{
+    width: 400px;
+}
+.bg-13{
+    padding-right: 30px;
+    padding-left: 30px;
+    
+   
+
+}
+.bg-13-1{
+ background-color: #ecdedb;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+
+.screen{
+    width: 80%;
+    
+}
+h3{
+    font-family: 'TF2 Build', sans-serif;
+}
+
+.text-href{
+    width: 80px;
+}
+.mini-mercs{
+    width: 50px;
+}
+.command-1{
+    color: rgb(198, 21, 21);
+    font-family: 'TF2 Build', sans-serif;
+}
+.command-2{
+    color: rgb(40, 40, 165);
+    font-family: 'TF2 Build', sans-serif;
+}
+.fa-brands{
+  width: 20px;}
+.en{
+    font-style: italic;
+    font-family: 'TF2', sans-serif;
+    padding-left: 20px;
+    
+    
+}
+.ua{
+    font-style: italic;
+    padding-left: 20px;
+}
+.bg-13-2{
+    background-color: #ecdedb;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ border-color: #5a554d;
+}
+.bg{
+    background-color: #ecdedb;
+    padding-left: 25px;
+    
+}
+.emblem{
+    width: 30px;
+}
+.bg-13-3{
+       background-color: #ecdedb;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ border-color: #5a554d;
+}
+
+
+.bg-15{
+    background-color: #ecdedb;
+    padding-right: 15px;
+    margin-right: 15px;
+
+  
+}
+
+.bg-16{
+
+}
+
+.main-manu{
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+
+.bg-15-1{
+    padding-left: 20px;
+padding-top: 40px;
+}
+
+
+.arsenal{
+    width: 80%;
+}
+
+.one{
+    padding-top: 20px;
+}
+.final{
+    padding-bottom: 40px;
+}
