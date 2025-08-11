@@ -23,7 +23,7 @@ img{
 }
 .footer{
     background-color: rgb(119, 112, 87);
-    color: #e4bd74;
+    color: rgb(108, 59, 32);
     font-family: 'TF2 Build', sans-serif;
     padding: 30px;
 
@@ -33,7 +33,7 @@ img{
   
 }
 .bg-1{
-    background-color: #ecdedb;
+    background-color: #ecdedb49;
     
    
     border-radius: 15px 0 0 0 ;
@@ -43,7 +43,7 @@ img{
     
 }
 .bg-2{
-    background-color: #d89925;
+    background-color: orange;
     padding-bottom: 30px;
     border-radius: 0px 0px 0 0;
     font-family: 'TF2 Build', sans-serif;
@@ -55,15 +55,15 @@ img{
 }
 
 .bg-3{
-  
-   
-    font-family: 'TF2', sans-serif;}
+  background-color: rgba(123,116,114,255);
+   font-family: 'TF2 Build', sans-serif;
+    }
 
     
     
 
 .bg-4{
-    background-color: #ecdedb;
+    background-color: #ecdedb49;
     
     padding-top: 30px;
     padding-bottom: 30px;
@@ -74,7 +74,7 @@ img{
     
 
 .bg-5{
-    background-color: #ecdedb;
+    background-color: #ecdedb49;
     margin-top: 5px;
     border-radius: 10px;
     padding-top: 0;
@@ -83,7 +83,7 @@ img{
 }
 
 .bg-6{
-background-color: #ecdedb;
+background-color: #ecdedb49;
 padding-top: 20px;
 padding-bottom: 20px;
 
@@ -93,29 +93,29 @@ padding-bottom: 20px;
 } 
 
 .bg-9{
-    background-color: #ecdedb;
+    background-color: rgba(123,116,114,255);
 
     
 }
 .biiiig{
-    background-color: #5a554d;
+    
     padding-top: 60px;
     border-radius: 20px;
     margin-top:10px ;
     margin-left: 40px;
     margin-right: 40px;
     margin-bottom:40px;
-    background: linear-gradient(#5a554d,#7c7a7750,#3d3b3721);
+   
     border-radius: 10px 0 0 10px;
     
 }
 .col-azazaa{
-    background-color: #ecdedb;
+   background-color: #ecdedb49;
     border-radius: 0px 0px 0px 0px;
 
 }
 .bg-8{
-background-color: #ecdedb;
+background-color: #ecdedb49;
 
 
 
@@ -129,7 +129,7 @@ background-color: #ecdedb;
 }
 
 .bg-11{
-    background-color: #d89925;
+    background-color: orange;
     padding: 30px;
     border-radius: 10px 10px 0 0;
     
@@ -141,14 +141,14 @@ img{
 
 a{
     text-decoration: none;
-    color: rgb(178, 124, 37);
+    color: rgb(108, 59, 32);
     
 
 }
 
 
 body{
-    background: linear-gradient( black,rgba(0, 0, 0, 0.683),rgba(0, 0, 0, 0.557) );
+    background: linear-gradient(rgba(0, 0, 0, 0.942),rgba(0, 0, 0, 0.683),rgba(0, 0, 0, 0.557) );
     
 }
 .nav-item{
@@ -165,12 +165,13 @@ body{
    
 }
 .bg-12{
-    background-color: #ecdedb;
+    background-color: #ecdedb49;
     padding-top: 30px;
     padding-bottom: 30px;
     font-family: 'TF2 Build', sans-serif;
-    background-color: #d89925;
+    background-color: rgba(243,115,44,255);
     padding-left: 30px;
+    background-color: orange;
     
 }
 
@@ -181,7 +182,7 @@ h2{
 
 .nav-link:hover{
 
-    color: #d89925;
+    color: rgb(121, 81, 13);
 }
 .video{
     width: 400px;
@@ -194,7 +195,7 @@ h2{
 
 }
 .bg-13-1{
- background-color: #ecdedb;
+ background-color: #ecdedb49;
  padding-top: 20px;
  padding-bottom: 20px;
 }
@@ -214,11 +215,11 @@ h3{
     width: 50px;
 }
 .command-1{
-    color: rgb(198, 21, 21);
+    color: rgba(113, 13, 13, 0.663);
     font-family: 'TF2 Build', sans-serif;
 }
 .command-2{
-    color: rgb(40, 40, 165);
+    color: rgba(40, 40, 165, 0.762);
     font-family: 'TF2 Build', sans-serif;
 }
 .fa-brands{
@@ -235,13 +236,13 @@ h3{
     padding-left: 20px;
 }
 .bg-13-2{
-    background-color: #ecdedb;
+   
  padding-top: 5px;
  padding-bottom: 5px;
  border-color: #5a554d;
 }
 .bg{
-    background-color: #ecdedb;
+    background-color: #ecdedb49;
     padding-left: 25px;
     
 }
@@ -249,7 +250,7 @@ h3{
     width: 30px;
 }
 .bg-13-3{
-       background-color: #ecdedb;
+      background-color: #ecdedb49;
  padding-top: 5px;
  padding-bottom: 5px;
  border-color: #5a554d;
@@ -257,7 +258,7 @@ h3{
 
 
 .bg-15{
-    background-color: #ecdedb;
+    background-color: rgba(123,116,114,255);
     padding-right: 15px;
     margin-right: 15px;
 
@@ -277,6 +278,8 @@ h3{
 .bg-15-1{
     padding-left: 20px;
 padding-top: 40px;
+background-color: rgba(123,116,114,255);
+margin: 0;
 }
 
 
@@ -290,3 +293,13 @@ padding-top: 40px;
 .final{
     padding-bottom: 40px;
 }
+.gif{
+    width: 50px;
+    
+}
+.links{
+    margin: 0;
+   
+
+}
+
