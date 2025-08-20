@@ -76,7 +76,6 @@ img{
 .bg-5{
     background-color: #ecdedb49;
     margin-top: 5px;
-    border-radius: 10px;
     padding-top: 0;
     padding-bottom: 30px;
     
@@ -304,4 +303,5 @@ margin: 0;
 }
 .conga{
     font-family: "Anonymous Pro", monospace;}
+
 
